@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Tobsi 👋</h1>
+<h1 align="center">Hey I'm Tobsi :wave:</h1>
 <p align="center">I'm Tobsi a computer science student :pencil2:.</p>
 <!-- https://simpleicons.org/ & https://shields.io/ arbejder sammen 
 
@@ -6,6 +6,8 @@
 https://github.com/Ileriayo/markdown-badges#programming-languages 
 https://gist.github.com/rxaviers/7360908 
 https://github.com/alexandresanlim/Badges4-README.md-Profile 
+
+EMOTES: https://gist.github.com/rxaviers/7360908 
 
 Til navne: https://www.w3schools.com/tags/ref_urlencode.ASP 
 
@@ -73,7 +75,26 @@ Til navne: https://www.w3schools.com/tags/ref_urlencode.ASP
 
 <br/>
 
-<h1 align="center">What am i playing on Spotify :sound:</h1>
+<!--    <h1 align="center">Tobsi's GitHub stats :clipboard:</h1>    --> <!-- :card_index::clipboard: -->
+
+<details>
+    <summary><h1 align="center">Tobsi's GitHub stats :clipboard:</h1></summary>
+
+<p align="center">
+<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x">
+<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x&show_icons=true&theme=radical" alt="Tobsi's GitHub stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+</a>
+</p>
+
+</details>
+
+
+<br/>
+
+<!--    <h1 align="center">What am i playing on Spotify :sound:</h1>    -->
+
+<details>
+    <summary><h1 align="center">What am i playing on Spotify :sound:</h1></summary>
 
 <p align="center">
 <a href="https://open.spotify.com/user/21ifdf7oojvcxemvf3zckk2ga">
@@ -81,24 +102,10 @@ Til navne: https://www.w3schools.com/tags/ref_urlencode.ASP
 </a>
 </p>
 
+</details>
+
 <!-- 
 [<img src="https://novatorem.tobsi-0x.vercel.app/api/spotify" alt="Spotify Playing" width="auto"/>](https://open.spotify.com/user/21ifdf7oojvcxemvf3zckk2ga) 
 -->
 
 <!-- <img style="height:34px; width:auto;" alt="Java" src="https://img.shields.io/badge/Java-17394A.svg?style=for-the-badge&logo=Java&logoColor=007396&labelColor=ff0000&color=9cf" / -->
-
-
-<!--
-**Tobsi-0x/Tobsi-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
