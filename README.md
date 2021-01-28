@@ -90,8 +90,8 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 </p>
 
 <p align="center">
-<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api/wakatime?username=Tobsi&theme=radical">
-<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api/wakatime?username=Tobsi&theme=radical" alt="Tobsi's GitHub coding stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+<a href="https://my-github-readme-stats-6pddjuctg.vercel.app/api/wakatime/?username=Tobsi&theme=radical">
+<img src="https://my-github-readme-stats-6pddjuctg.vercel.app/api/wakatime/?username=Tobsi&theme=radical" alt="Tobsi's GitHub coding time stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
 </a>
 </p>
 
