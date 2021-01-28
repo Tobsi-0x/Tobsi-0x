@@ -11,6 +11,9 @@ EMOTES: https://gist.github.com/rxaviers/7360908
 
 Til navne: https://www.w3schools.com/tags/ref_urlencode.ASP 
 
+
+README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme 
+
 -->
 
 
@@ -78,11 +81,23 @@ Til navne: https://www.w3schools.com/tags/ref_urlencode.ASP
 <!--    <h1 align="center">Tobsi's GitHub stats :clipboard:</h1>    --> <!-- :card_index::clipboard: -->
 
 <details>
-    <summary><h1 align="center">Tobsi's GitHub stats :clipboard:</h1></summary>
+    <summary><h1 align="center">:point_right:Tobsi's GitHub stats :clipboard:</h1></summary>
 
 <p align="center">
 <a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x">
 <img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x&show_icons=true&theme=radical" alt="Tobsi's GitHub stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+</a>
+</p>
+
+<p align="center">
+<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x">
+<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api/wakatime?username=Tobsi&theme=radical" alt="Tobsi's GitHub coding stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+</a>
+</p>
+
+<p align="center">
+<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x">
+<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsi-0x&langs_count=5&theme=radical" alt="Tobsi's GitHub coding stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
 </a>
 </p>
 
@@ -94,7 +109,7 @@ Til navne: https://www.w3schools.com/tags/ref_urlencode.ASP
 <!--    <h1 align="center">What am i playing on Spotify :sound:</h1>    -->
 
 <details>
-    <summary><h1 align="center">What am i playing on Spotify :sound:</h1></summary>
+    <summary><h1 align="center">:point_right:What am i playing on Spotify :sound::headphones::sound:</h1></summary>
 
 <p align="center">
 <a href="https://open.spotify.com/user/21ifdf7oojvcxemvf3zckk2ga">
@@ -103,6 +118,18 @@ Til navne: https://www.w3schools.com/tags/ref_urlencode.ASP
 </p>
 
 </details>
+
+<!--
+
+[![Top Langs](https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsi-0x&layout=compact)](https://github.com/tobsi-0x/github-readme-stats)
+
+[![Top Langs](https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsi-0x&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://my-github-readme-stats.tobsi-0x.vercel.app/api/wakatime?username=Tobsi)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
+<!--    [![Top Langs](https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsi-0x&langs_count=8&exclude_repo=TC8E,TGB_Emulator)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 
 [<img src="https://novatorem.tobsi-0x.vercel.app/api/spotify" alt="Spotify Playing" width="auto"/>](https://open.spotify.com/user/21ifdf7oojvcxemvf3zckk2ga) 
