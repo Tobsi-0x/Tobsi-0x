@@ -81,7 +81,7 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <!--    <h1 align="center">Tobsi's GitHub stats :clipboard:</h1>    --> <!-- :card_index::clipboard: -->
 
 <details>
-    <summary><h1 align="center">:point_right:Tobsi's GitHub stats :clipboard:</h1></summary>
+    <summary><h1 align="center">Tobsi's GitHub stats :clipboard:</h1></summary>
 
 <p align="center">
 <a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x&show_icons=true&theme=radical">
@@ -109,7 +109,7 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <!--    <h1 align="center">What am i playing on Spotify :sound:</h1>    -->
 
 <details>
-    <summary><h1 align="center">:point_right:What am i playing on Spotify :sound::headphones::sound:</h1></summary>
+    <summary><h1 align="center">What am i playing on Spotify :sound:</h1></summary>
 
 <p align="center">
 <a href="https://open.spotify.com/user/21ifdf7oojvcxemvf3zckk2ga">
