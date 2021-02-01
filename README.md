@@ -52,6 +52,7 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <img style="height:34px; width:auto;" alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe After Effects-9999FF.svg?&style=for-the-badge&logo=Adobe After Effects&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe+photoshop&logoColor=white"/>&nbsp;
+<img style="height:34px; width:auto;" alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white"/>&nbsp;
 <br/>
 
 <div><h4>Version Control: </h4></div>
