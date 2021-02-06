@@ -41,17 +41,17 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 <div><h4>IDE: </h4></div>
 
-<img style="height:34px; width:auto;" alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/>&nbsp;
-<img style="height:34px; width:auto;" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp;
+<img style="height:34px; width:auto;" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>&nbsp;
+<img style="height:34px; width:auto;" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/>&nbsp;
 <br/>
 
 <div> <h4>Design: </h4><div/>
 
 <img style="height:34px; width:auto;" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>&nbsp;
-<img style="height:34px; width:auto;" alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>&nbsp;
-<img style="height:34px; width:auto;" alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe After Effects-9999FF.svg?&style=for-the-badge&logo=Adobe After Effects&logoColor=white"/>&nbsp;
-<img style="height:34px; width:auto;" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe+photoshop&logoColor=white"/>&nbsp;
+<img style="height:34px; width:auto;" alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>&nbsp;
+<img style="height:34px; width:auto;" alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?&style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>&nbsp;
+<img style="height:34px; width:auto;" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white"/>&nbsp;
 <br/>
 
